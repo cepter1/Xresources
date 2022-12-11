@@ -38,9 +38,9 @@
 *.color15:      #ffffff
 
 !! URxvt Appearance
-!URxvt.font: xft:Inconsolata:size=15
-!URxvt.font: xft:Mono:pixelsize=15:antialias=true
-URxvt.font: xft:Inconsolata:pixelsize=15:antialias=true
+!URxvt.font: xft:Terminus:size=15
+!URxvt.font: xft:Terminus:pixelsize=15:antialias=true
+URxvt.font: xft:Terminus:pixelsize=15:antialias=true
 !URxvt.boldFont: xft:
 !URxvt.italicFont: xft:DejaVu Sans Mono:pixelsize=15,style=Book
 !URxvt.boldItalicfont: xft:DejaVu Sans Mono:pixelsize=15,style=Book
