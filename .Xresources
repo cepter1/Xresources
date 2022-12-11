@@ -66,4 +66,3 @@ URxvt.keysym.Shift-Control-V:    eval:paste_clipboard
 
 URxvt.keysym.C-j:       perl:font-size:increase
 URxvt.keysym.C-k:       perl:font-size:decrease
-
