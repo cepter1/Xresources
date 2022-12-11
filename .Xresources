@@ -66,3 +66,10 @@ URxvt.keysym.Shift-Control-V:    eval:paste_clipboard
 
 URxvt.keysym.C-j:       perl:font-size:increase
 URxvt.keysym.C-k:       perl:font-size:decrease
+
+! Xresources file
+
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+URxvt*shading: 80
