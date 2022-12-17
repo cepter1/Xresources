@@ -2,7 +2,7 @@
 
 ! special
 *.foreground:   #FFFFFF
-*.background:   #000000
+*.background:   #121314
 *.cursorColor:  #FFFFFF
 
 ! black
@@ -67,9 +67,15 @@ URxvt.keysym.Shift-Control-V:    eval:paste_clipboard
 URxvt.keysym.C-j:       perl:font-size:increase
 URxvt.keysym.C-k:       perl:font-size:decrease
 
-! Xresources file
+! For transparency
 
-URxvt*inheritPixmap: true
-URxvt*transparent: true
-! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
-URxvt*shading: 70
+!URxvt*inheritPixmap: true
+!URxvt*transparent: true
+!URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+!URxvt*shading: 30
+
+! makes good grey background with current settings
+
+!URxvt.depth: 32
+!URxvt.background: rgba:1111/1111/1111/dddd
+
