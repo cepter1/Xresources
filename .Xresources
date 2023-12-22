@@ -68,7 +68,7 @@ URxvt.keysym.C-k:       perl:font-size:decrease
 !URxvt*inheritPixmap: true
 !URxvt*transparent: true
 !URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
-!URxvt*shading: 30
+!URxvt*shading: 50
 
 ! makes good grey background with current settings
 
