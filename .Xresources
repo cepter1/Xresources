@@ -40,7 +40,7 @@
 
 !! URxvt Appearance
 !URxvt.font: xft:Terminus:pixelsize=15:antialias=true
-URxvt.font: xft:Inconsolata:pixelsize=15:antialias=true
+URxvt.font: xft:Inconsolata:pixelsize=18:antialias=true
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 !URxvt.geometry: 400x400
